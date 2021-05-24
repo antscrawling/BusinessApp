@@ -10,6 +10,7 @@ class Book:
     author: str
     pages: int
     price: float  
+    #jkj
 
     # You can define methods in a dataclass like any other
     def bookinfo(self):
