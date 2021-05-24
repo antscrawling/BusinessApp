@@ -18,6 +18,7 @@ b2 = Book("The Catcher in the Rye", "JD Salinger", 234, 29.95)
 print(b1.title)
 print(b2.author)
 
+
 # TODO: print the book itself - dataclasses implement __repr__
 
 
