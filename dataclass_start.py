@@ -9,6 +9,8 @@ class Book:
         self.pages = pages
         self.price = price
 
+#jay creation
+
 
 # create some instances
 b1 = Book("War and Peace", "Leo Tolstoy", 1225, 39.95)
